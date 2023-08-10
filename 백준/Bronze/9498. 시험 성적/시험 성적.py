@@ -1,3 +1,4 @@
+# 시험성적
 n = int(input())
 grade = n // 10
 if grade >= 9:
